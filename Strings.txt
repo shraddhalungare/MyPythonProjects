@@ -1,0 +1,4 @@
+name = "Harry"
+print(type(name))
+Greeting = "Good Morning"
+print(greeting + name)

@@ -1,0 +1,16 @@
+GitHub Notes:
+
+Software --> Git GUI
+
+[Local - My Computer] ---> Stage  --> Commit --> Push ---> [Remote - GitHub]
+
+
+- Make one repository (Folder) on GitHub
+- Clone the GitHub Repository in local machine (Git GUI)
+- Copy files into local repository folder 
+- Stage
+- Commit 
+- Push 
+- Accept & Compare request 
+- Accept pull request 
+- Merge & confirm merge
